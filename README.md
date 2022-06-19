@@ -8,4 +8,5 @@ The size variable defines the lattice horizontal and vertical size. This can be 
 
 Variable `veg` can take `'low'`, `'mid'`, `'hig'`, setting the vegetation density from low to mid to high. `hum` also has 3 levels, which can take values 20, 50 or 60.
 
-![Example result for low vegetation and humidity of 70](https://github.com/oestebanbajo/Natural_computing_wildfire_CA/blob/main/example_result/hum_70_veg_low.gif)
+Example result for low vegetation and humidity of 70:
+![yep](https://github.com/oestebanbajo/Natural_computing_wildfire_CA/blob/main/example_result/hum_70_veg_low.gif)
